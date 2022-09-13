@@ -9,6 +9,7 @@ Add your own name (do not add the names for others!) to the section below.
 ## Group members
 
 | Profile Picture | Name | Email |
+|---|---|---|
 | <img src="https://i.imgur.com/XJ0PL4l.jpeg" width=60px> | Filip Dobrev | F.Dobrev@student.tudelft.nl |
 | | Bertold B. Kovacs | B.B.Kovacs-1@student.tudelft.nl |
 | | Dragoș Ileana | D.Ileana@student.tudelft.nl |
